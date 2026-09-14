@@ -1,0 +1,10 @@
+Prueba de importacion de Inventory
+
+1. Abri Inventory.
+2. Entra en Datos.
+3. Pulsa Importar datos.
+4. Selecciona Inventory_import_prueba.xlsx.
+5. Se importan productos y clientes de prueba.
+6. Tambien podes probar Inventory_import_prueba.txt para productos.
+
+Antes de reemplazar la base, Inventory crea automaticamente un backup .inventory.

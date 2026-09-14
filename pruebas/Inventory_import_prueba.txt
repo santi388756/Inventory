@@ -1,0 +1,3 @@
+﻿nombre	categoria	tipo	codigo_barra	precio	costo	stock_actual	stock_minimo
+Coca-Cola 2.5L	Bebidas	producto	773000000102	300	200	18	4
+Barba clásica	Servicios	servicio		250	0	0	0
